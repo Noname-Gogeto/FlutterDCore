@@ -1,6 +1,6 @@
 # FlutterDCore
 
-A new Flutter project.
+Default building Flutter project.
 
 ## Getting Started
 
